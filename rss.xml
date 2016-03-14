@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Online Home Of Barry Mutch Music Studio Design - Equipment Sales - Training]]></title>
         <description><![CDATA[The Online Home Of Barry Mutch Music Studio Design - Equipment Sales - Training]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.barrymutchmusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 16:21:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 19:10:41 GMT</lastBuildDate>
+        <atom:link href="http://www.barrymutchmusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome</p>]]></description>
-            <link>undefinede8d221bf-bcb8-4e42-8368-df5d1dadd8d9/index.html</link>
+            <description><![CDATA[<p>Welcome to barrymutchmusic.com</p>]]></description>
+            <link>http://www.barrymutchmusic.com/e8d221bf-bcb8-4e42-8368-df5d1dadd8d9/index.html</link>
             <guid isPermaLink="false">e8d221bf-bcb8-4e42-8368-df5d1dadd8d9</guid>
-            <pubDate>Mon, 14 Mar 2016 16:21:27 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 19:10:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

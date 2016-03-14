@@ -1,14 +1,28 @@
+name: Barry Mutch Music
+favicon: null
 layout_spectrum: 0.9789208
+typography_spectrum: 0.5303541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2993255
-  lightness: 0.03204047
-  brandStrength: 0.5252951
   brandColors:
     - '#0000FD'
     - '#00016E'
     - '#FFFFFF'
     - '#A303FF'
     - '#544BA2'
+  brandStrength: 0.5252951
+  lightness: 0.03204047
+  saturation: 0.2993255
   rhythmicContrast: 0.3524452
-typography_spectrum: 0.5303541
-name: Barry Mutch Music
+purpose: []

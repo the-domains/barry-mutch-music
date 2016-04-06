@@ -1,7 +1,7 @@
 name: Barry Mutch Music
 favicon: null
-layout_spectrum: 0.9789208
-typography_spectrum: 0.5303541
+layout_spectrum: 0.49042
+typography_spectrum: 0.59878
 title: The Online Home Of Barry Mutch Music Studio Design - Equipment Sales - Training
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#09002c'
-    - '#fc01fd'
-    - '#fffffe'
-    - '#6991fd'
-    - '#fb8ffd'
-  brandStrength: 0.5625
-  lightness: 0.0625
+    - '#6b6b6b'
+    - '#8a8a8a'
+    - '#050505'
+    - '#2a2c2b'
+    - '#acacac'
+  brandStrength: 0.5
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []

@@ -1,29 +1,41 @@
-name: Barry Mutch Music
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.59878
-title: 'Barry Mutch Music  - Studio Design, Pro Equipment Sales & Training'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+title: 'Barry Mutch Music  - Studio Design, Pro Equipment Sales & Training'
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#6b6b6b'
     - '#8a8a8a'
     - '#050505'
     - '#2a2c2b'
     - '#acacac'
-  brandStrength: 0.5
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: Barry Mutch Music
+typography_spectrum: 0.59878

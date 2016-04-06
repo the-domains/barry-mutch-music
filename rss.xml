@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Barry Mutch Music  - Studio Design, Pro Equipment Sales & Training]]></title>
         <description><![CDATA[Barry Mutch Music  - Studio Design, Pro Equipment Sales & Training]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.barrymutchmusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:14:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 17:32:20 GMT</lastBuildDate>
+        <atom:link href="http://www.barrymutchmusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c02706d-f15e-4d0b-aa8b-b5630dbb09ce.jpg">]]></description>
-            <link>undefined47d1df25-7ecc-415c-bbe3-a2166b5da230/index.html</link>
+            <title><![CDATA[Coming soon...]]></title>
+            <description><![CDATA[<article><h1>Coming soon...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b29ede25880139dad5d0764d8069e8c1d6e7ecf.jpg"></article>]]></description>
+            <link>http://www.barrymutchmusic.com/47d1df25-7ecc-415c-bbe3-a2166b5da230/index.html</link>
             <guid isPermaLink="false">47d1df25-7ecc-415c-bbe3-a2166b5da230</guid>
-            <pubDate>Wed, 06 Apr 2016 17:14:02 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 17:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
